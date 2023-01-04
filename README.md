@@ -48,9 +48,9 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## OUTPUT
 
-![OUTPUT](./Out.png)
+![OUTPUT](./out.png)
 
 
 ## RESULT
 
-THe program is executed successfully
+The program is executed successfully
